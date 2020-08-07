@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/task0301.dir/main.cpp.o CMakeFiles/task0301.dir/Book.cpp.o  -o task0301 
